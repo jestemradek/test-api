@@ -1,0 +1,11 @@
+node_modules/
+package-lock.json
+.DS_Store
+dist
+tmp
+.stryker-tmp
+reports
+.vscode
+combined.log
+npm-debug.log
+stryker.log

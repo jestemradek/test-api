@@ -1,0 +1,7 @@
+{
+  "lang": "en",
+  "userRegistration": {
+    "title": "Account created",
+    "content": "Hi <%- name %>. Thank you for registration! Here is your activation token: <%- activationToken %>"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "lang": "pl",
+  "userRegistration": {
+    "title": "Konto zostało utworzone",
+    "content": "Cześć <%- name %>. Dziękujemy za rejestrację! Tutaj jest Twój token aktywacyjny: <%- activationToken %>"
+  }
+}
